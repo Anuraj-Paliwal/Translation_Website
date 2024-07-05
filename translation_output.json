@@ -1,0 +1,410 @@
+[
+    {
+        "serial_number": 1,
+        "original_text": "how are you ?",
+        "translated_text": "どうしてる?",
+        "translation_check": "元気？"
+    },
+    {
+        "serial_number": 2,
+        "original_text": "good morning hi",
+        "translated_text": "おはよう",
+        "translation_check": "- おはよう"
+    },
+    {
+        "serial_number": 3,
+        "original_text": "hi",
+        "translated_text": "ハイ",
+        "translation_check": "hi"
+    },
+    {
+        "serial_number": 4,
+        "original_text": "hi",
+        "translated_text": "ハイ",
+        "translation_check": "hi"
+    },
+    {
+        "serial_number": 5,
+        "original_text": "hello I am here",
+        "translated_text": "こんにちは、私はここにいます",
+        "translation_check": "こんにちは、私はここにいます"
+    },
+    {
+        "serial_number": 6,
+        "original_text": "hi",
+        "translated_text": "ハイ",
+        "translation_check": "hi"
+    },
+    {
+        "serial_number": 7,
+        "original_text": "joke",
+        "translated_text": "冗談",
+        "translation_check": "ジョーク、冗談"
+    },
+    {
+        "serial_number": 8,
+        "original_text": "door",
+        "translated_text": "ドア",
+        "translation_check": "ドア"
+    },
+    {
+        "serial_number": 9,
+        "original_text": "boy",
+        "translated_text": "少年",
+        "translation_check": "少年"
+    },
+    {
+        "serial_number": 10,
+        "original_text": "message",
+        "translated_text": "メッセージ",
+        "translation_check": "メッセージ"
+    },
+    {
+        "serial_number": 11,
+        "original_text": "message",
+        "translated_text": "メッセージ",
+        "translation_check": "メッセージ"
+    },
+    {
+        "serial_number": 12,
+        "original_text": "message",
+        "translated_text": "メッセージ",
+        "translation_check": "メッセージ"
+    },
+    {
+        "serial_number": 13,
+        "original_text": "message",
+        "translated_text": "メッセージ",
+        "translation_check": "メッセージ"
+    },
+    {
+        "serial_number": 14,
+        "original_text": "message",
+        "translated_text": "メッセージ",
+        "translation_check": "メッセージ"
+    },
+    {
+        "serial_number": 15,
+        "original_text": "mega",
+        "translated_text": "大",
+        "translation_check": "メガ"
+    },
+    {
+        "serial_number": 16,
+        "original_text": "heal",
+        "translated_text": "治癒",
+        "translation_check": "治療"
+    },
+    {
+        "serial_number": 17,
+        "original_text": "good",
+        "translated_text": "有効",
+        "translation_check": "優"
+    },
+    {
+        "serial_number": 18,
+        "original_text": "human",
+        "translated_text": "人間",
+        "translation_check": "ヒト"
+    },
+    {
+        "serial_number": 19,
+        "original_text": "house",
+        "translated_text": "家",
+        "translation_check": "家"
+    },
+    {
+        "serial_number": 20,
+        "original_text": "good",
+        "translated_text": "有効",
+        "translation_check": "優"
+    },
+    {
+        "serial_number": 21,
+        "original_text": "good",
+        "translated_text": "有効",
+        "translation_check": "優"
+    },
+    {
+        "serial_number": 22,
+        "original_text": "food",
+        "translated_text": "食物",
+        "translation_check": "食品"
+    },
+    {
+        "serial_number": 23,
+        "original_text": "tyre",
+        "translated_text": "チューレ県france.kgm",
+        "translation_check": "ティルス"
+    },
+    {
+        "serial_number": 24,
+        "original_text": "troop",
+        "translated_text": "群れ",
+        "translation_check": "兵士"
+    },
+    {
+        "serial_number": 25,
+        "original_text": "gyro",
+        "translated_text": "ジロ (Gyro)star name",
+        "translation_check": "ジャイロ"
+    },
+    {
+        "serial_number": 26,
+        "original_text": "gyro",
+        "translated_text": "ジロ (Gyro)star name",
+        "translation_check": "ジャイロ"
+    },
+    {
+        "serial_number": 27,
+        "original_text": "good",
+        "translated_text": "有効",
+        "translation_check": "優"
+    },
+    {
+        "serial_number": 28,
+        "original_text": "food is death",
+        "translated_text": "食べ物は死だ",
+        "translation_check": "食べ物は死です"
+    },
+    {
+        "serial_number": 29,
+        "original_text": "yomba yomba muko sidara",
+        "translated_text": "ヨムバヨムムバムコサダ_BAR_/_BAR_$[~setProps ~region 'ヨムバヨムバムコシダラ県' ~city 'ヨムバヨムバ・ムコ・シダラ']turkey.kgm",
+        "translation_check": "ヨンバヨンバムコシダラ"
+    },
+    {
+        "serial_number": 30,
+        "original_text": "food is my homie shoot me to kill me, said I to the deadly alliance, is mortal kombat self reliant ?",
+        "translated_text": "食べ物は、私を殺すために私を撃つ、私は致命的な同盟をいう、 死のコムバットは、自己満足ですか?",
+        "translation_check": "食べ物は私の仲間が私を殺すために私を撃つことです、致命的な同盟に私は言った、人間のコンバットは自立していますか？"
+    },
+    {
+        "serial_number": 31,
+        "original_text": "food is my homie shoot me to kill me, said I to the deadly alliance, is mortal kombat self reliant ?",
+        "translated_text": "食べ物は、私を殺すために私を撃つ、私は致命的な同盟をいう、 死のコムバットは、自己満足ですか?",
+        "translation_check": "食べ物は私の仲間が私を殺すために私を撃つことです、致命的な同盟に私は言った、人間のコンバットは自立していますか？"
+    },
+    {
+        "serial_number": 32,
+        "original_text": "joke",
+        "translated_text": "冗談",
+        "translation_check": "ジョーク、冗談"
+    },
+    {
+        "serial_number": 33,
+        "original_text": "joke",
+        "translated_text": "冗談",
+        "translation_check": "ジョーク、冗談"
+    },
+    {
+        "serial_number": 34,
+        "original_text": "misery",
+        "translated_text": "惨め",
+        "translation_check": "ミザリー"
+    },
+    {
+        "serial_number": 35,
+        "original_text": "message",
+        "translated_text": "メッセージ",
+        "translation_check": "メッセージ"
+    },
+    {
+        "serial_number": 36,
+        "original_text": "good boy",
+        "translated_text": "良い子だ",
+        "translation_check": "いい坊や"
+    },
+    {
+        "serial_number": 37,
+        "original_text": "let us check",
+        "translated_text": "(西村)はい",
+        "translation_check": "確認してみましょう"
+    },
+    {
+        "serial_number": 38,
+        "original_text": "good",
+        "translated_text": "有効",
+        "translation_check": "優"
+    },
+    {
+        "serial_number": 39,
+        "original_text": "human",
+        "translated_text": "人間",
+        "translation_check": "ヒト"
+    },
+    {
+        "serial_number": 40,
+        "original_text": "hi",
+        "translated_text": "ハイ",
+        "translation_check": "hi"
+    },
+    {
+        "serial_number": 41,
+        "original_text": "hi",
+        "translated_text": "ハイ",
+        "translation_check": "hi"
+    },
+    {
+        "serial_number": 42,
+        "original_text": "messgae",
+        "translated_text": "ダグガイcolor",
+        "translation_check": "messgae"
+    },
+    {
+        "serial_number": 43,
+        "original_text": "hello",
+        "translated_text": "こんにちは",
+        "translation_check": ""
+    },
+    {
+        "serial_number": 44,
+        "original_text": "hello",
+        "translated_text": "こんにちは",
+        "translation_check": "konnichiwa"
+    },
+    {
+        "serial_number": 45,
+        "original_text": "hello",
+        "translated_text": "こんにちは",
+        "translation_check": "konnichiwa"
+    },
+    {
+        "serial_number": 46,
+        "original_text": "hello",
+        "translated_text": "こんにちは",
+        "translation_check": ""
+    },
+    {
+        "serial_number": 47,
+        "original_text": "hello",
+        "translated_text": "こんにちは",
+        "translation_check": ""
+    },
+    {
+        "serial_number": 48,
+        "original_text": "g",
+        "translated_text": "g",
+        "translation_check": "g"
+    },
+    {
+        "serial_number": 49,
+        "original_text": "g",
+        "translated_text": "g",
+        "translation_check": "g"
+    },
+    {
+        "serial_number": 50,
+        "original_text": "g",
+        "translated_text": "g",
+        "translation_check": "g"
+    },
+    {
+        "serial_number": 51,
+        "original_text": "g",
+        "translated_text": "g",
+        "translation_check": "g"
+    },
+    {
+        "serial_number": 52,
+        "original_text": "Come on!",
+        "translated_text": "さあ!",
+        "translation_check": "行くわよっ！"
+    },
+    {
+        "serial_number": 53,
+        "original_text": "hello my name is bot and you might be a human, if not then LEAVE!!! If yes then... Please DONT SHUT ME DOWN :( ",
+        "translated_text": "2020年3月13日閲覧. ^ \"[[[リンク切れ]\". ハローロボット!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        "translation_check": "こんにちは、私の名前はボットです。あなたは人間かもしれません。そうでなければ去ってください！ ！ ！はいの場合は...私をシャットダウンしないでください:("
+    },
+    {
+        "serial_number": 54,
+        "original_text": "hello background-color: rgba(255, 255, 255, 0); /* Transparent white background */",
+        "translated_text": "Hello 背景色: rgba(255), 255, 255, 0; / 透過白の背景 * /",
+        "translation_check": "hello background - color: rgba (255, 255, 255, 0); /*透明な白い背景*/"
+    },
+    {
+        "serial_number": 55,
+        "original_text": "I am a boy",
+        "translated_text": "私は少年です",
+        "translation_check": "僕、男だよ。"
+    },
+    {
+        "serial_number": 56,
+        "original_text": "Message",
+        "translated_text": "メッセージ",
+        "translation_check": "メッセージ"
+    },
+    {
+        "serial_number": 57,
+        "original_text": "Message",
+        "translated_text": "メッセージ",
+        "translation_check": "メッセージ"
+    },
+    {
+        "serial_number": 58,
+        "original_text": "message",
+        "translated_text": "メッセージ",
+        "translation_check": "メッセージ"
+    },
+    {
+        "serial_number": 59,
+        "original_text": "type",
+        "translated_text": "タイプ",
+        "translation_check": "入力"
+    },
+    {
+        "serial_number": 60,
+        "original_text": "message",
+        "translated_text": "メッセージ",
+        "translation_check": "メッセージ"
+    },
+    {
+        "serial_number": 61,
+        "original_text": "type",
+        "translated_text": "タイプ",
+        "translation_check": "入力"
+    },
+    {
+        "serial_number": 62,
+        "original_text": "type",
+        "translated_text": "タイプ",
+        "translation_check": "入力"
+    },
+    {
+        "serial_number": 63,
+        "original_text": "groot",
+        "translated_text": "groot (groot)",
+        "translation_check": "グルート。"
+    },
+    {
+        "serial_number": 64,
+        "original_text": "human",
+        "translated_text": "人間",
+        "translation_check": "ヒト"
+    },
+    {
+        "serial_number": 65,
+        "original_text": "do it",
+        "translated_text": "やるんだ",
+        "translation_check": "やさしく…"
+    },
+    {
+        "serial_number": 66,
+        "original_text": "type",
+        "translated_text": "タイプ",
+        "translation_check": "入力"
+    },
+    {
+        "serial_number": 67,
+        "original_text": "how human are you human, to be called a human by a human ?",
+        "translated_text": "तुम मानव हो, जिन्हें मनुष्य कहा जाता है?",
+        "translation_check": "あなたはどのように人間であり、人間によって人間と呼ばれていますか？"
+    },
+    {
+        "serial_number": 68,
+        "original_text": "how are you",
+        "translated_text": "आप कैसे हैं",
+        "translation_check": "お元気ですか"
+    }
+]

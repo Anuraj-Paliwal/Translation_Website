@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+       html {
+            height: 100%;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #b3d9ff, #ffffff);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+	.square-container {
+    	width: 300px;
+    	height: 300px;
+    	border: 5px solid #ccc;
+    	border-radius: 20px;
+    	display: flex;
+    	justify-content: center;
+    	align-items: center;
+    	flex-direction: column;
+    	box-shadow: 0 4px 8px rgba(0, 0, 182, 0.5); 
+	}
+
+	.square-button {
+    	width: 60%;
+    	padding: 15px;
+    	border: none;
+    	background-color: #5c9ed6;
+    	color: white;
+    	font-size: 18px;
+    	cursor: pointer;
+    	border-radius: 10px;
+    	margin: 10px 0;
+    	transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+	}
+
+	.square-button:hover {
+    	background-color: #6eb0e0;
+    	transform: scale(1.05) translateY(-5px);
+    	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+	}
+
+    </style>
+</head>
+<body>
+    <div class="square-container">
+        <button class="square-button">Japanese</button>
+        <button class="square-button">Hindi</button>
+    </div>
+</body>
+</html>
