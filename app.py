@@ -7,6 +7,7 @@ import os, re
 import requests
 import matplotlib.pyplot as plt
 import pandas as pd
+from datetime import datetime
 app = Flask(__name__)
 
 # for hindi
@@ -188,8 +189,6 @@ def profile():
 
     # Load JSON data
     data = json.loads(json_data)
-
-    # Extract categories and percentages
     categories = data['categories']
     percentages = data['percentages']
 
@@ -197,14 +196,17 @@ def profile():
     plt.figure(figsize=(8, 6))
     plt.pie(percentages, labels=categories, autopct='%1.1f%%', startangle=140, colors=['lightblue', 'lightgreen', 'lightcoral'])
     plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-    plt.title('Pie Chart of Categories by Percentage')
+    plt.title(f'Pie Chart of Categories by Percentage for {name}')
 
-    chart_filename = 'static/pie_chart.png'  
+    # Generate filename based on name variable
+    chart_filename = f'static/pie_chart_{name}.png'
     plt.savefig(chart_filename)
-    chart_url = url_for('static', filename='pie_chart.png')
+
+
+    # Generate URL for the saved chart file
+    chart_url = url_for('static', filename=f'pie_chart_{name}.png')
 
     return render_template('profile.html', name=name, post=post, chart_url=chart_url)
-
     
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
